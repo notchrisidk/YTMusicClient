@@ -8,6 +8,7 @@
 - Built-in ad-blocker.
 - Minimizing to system tray.
 - Your Google account gets saved within the application.
+- Discord RPC
 
 ## To-do:
 
