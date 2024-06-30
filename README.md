@@ -5,7 +5,7 @@
 
 ## Features:
 
-- Built-in ad-blocker.
+- Built-in ad-blocker. ([Thanks to the Ghostery Electron ad-blocking library](https://github.com/ghostery/adblocker/blob/master/packages/adblocker-electron/README.md))
 - Minimizing to system tray.
 - Your Google account gets saved within the application.
 - Discord RPC
