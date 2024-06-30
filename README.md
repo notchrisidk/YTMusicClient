@@ -17,6 +17,7 @@
 - [ ] Polish/optimize the application.
 - [ ] Add an updater.
 - [ ] Music control from the system tray.
+- [ ] Making the Discord RPC better.
 
 ## Installation
 
