@@ -16,6 +16,7 @@
 - [ ] Add theming. (Maybe plugins)
 - [ ] Polish/optimize the application.
 - [ ] Add an updater.
+- [ ] Music control from the system tray.
 
 ## Installation
 
